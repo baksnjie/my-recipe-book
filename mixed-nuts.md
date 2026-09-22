@@ -1,2 +1,1 @@
-Add Ebbeh to recipe!
-Add chilly!
+Add Ebbeh and chilly to the recipe!
